@@ -1,2 +1,5 @@
 # Yakovlev_Tinkoff_Fintech_Android
-This is test task to go to Tinkoff Fintech Android courses
+Это тестовое приложение для поступления на курс Тинькофф Финтех по андроиду. <br/>
+Приложение написано на Kotlin. 
+Применены Retrofit2, Glide, Hilt, ViewModel, LiveData, ViewBinding.
+Приложение отображает случайные gif-анимации, получаемые по REST API с сайта developerslife.ru. Переключаться между анимациями можно с помощью кнопок (вперёд/назад) или свайпов. Полученные изображения и их порядок сохраняются в рамках сессии
