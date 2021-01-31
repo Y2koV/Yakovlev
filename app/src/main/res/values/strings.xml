@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Developers Life</string>
+    <string name="title_activity_main">Developers Life</string>
+
+    <!-- Layouts placeholders -->
+    <string name="item_description">Item description</string>
+
+    <!-- item_gid -->
+    <string name="gallery_button_retry">Повторить</string>
+    <string name="gallery_button_previous">Previous</string>
+    <string name="gallery_button_next">Next</string>
+    <string name="gallery_connection_error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="gallery_empty_result_message">К сожалению, ничего не найдено</string>
 </resources>
